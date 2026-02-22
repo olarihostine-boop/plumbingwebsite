@@ -1,4 +1,4 @@
-# IPS Plumbing & Heating Services LLC Website# Direct Plumbing Service INC — Website
+# Direct Plumbing Service INC — Website
 
 A modern, professional, and fully responsive website for **Direct Plumbing Service INC**. This project features a high-impact design tailored for plumbing businesses, with focus on service visibility and customer conversion.
 
@@ -40,5 +40,3 @@ A modern, professional, and fully responsive website for **Direct Plumbing Servi
 
 ---
 © 2026 Direct Plumbing Service INC. All rights reserved.
-
-
